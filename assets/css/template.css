@@ -1,0 +1,13 @@
+body
+{
+	margin: 0;
+}
+.environment
+{
+	height: 10px;
+	background-color: #000;
+}
+table th
+{
+	text-align: left;
+}
